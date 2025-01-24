@@ -24,8 +24,7 @@ The **Random Forest Regression** model performed the best for salary prediction,
 
 ## How to Run
 1. Clone the repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook `Salary_Prediction_Analysis.ipynb` and run the cells.
+2. Open the Jupyter Notebook `Salary_Prediction_Analysis.ipynb` and run the cells.
 
 ## Requirements
 - Python 3.x
